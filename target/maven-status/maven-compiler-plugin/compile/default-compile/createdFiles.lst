@@ -1,0 +1,8 @@
+com\imooc\test\kafka\kafka_consumer.class
+com\imooc\test\KafkaAppProducerTest.class
+com\imooc\test\kafka\KafkaProperties.class
+com\imooc\test\util\JDBCHelper$QueryCallback.class
+com\imooc\test\util\JDBCHelper.class
+com\imooc\test\util\HbaseUtils.class
+com\imooc\test\kafka\kafka_producer.class
+com\imooc\test\KafkaAppConsumerTest.class
